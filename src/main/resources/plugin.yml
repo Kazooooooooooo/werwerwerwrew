@@ -1,0 +1,6 @@
+name: DragonEggPlugin
+version: 1.0.0
+main: com.dragonegg.DragonEggPlugin
+api-version: '1.21'
+description: Prevents the special dragon egg from being placed and gives glowing to whoever holds it.
+author: YourName
